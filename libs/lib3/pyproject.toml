@@ -16,7 +16,7 @@ python = "~3.10"
 
 setuptools = "44.0.0"
 coloredlogs = "10.0"
-fiona = "1.8.20"
+fiona = "1.9.4.post1"
 geopandas = "0.7.0"
 ipython = "7.28.0"
 memory-profiler = "0.55.0"
