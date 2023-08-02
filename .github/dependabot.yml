@@ -65,3 +65,12 @@ updates:
     commit-message:
       # Prefix all commit messages with "npm: "
       prefix: ":boom: :boom: "
+  - package-ecosystem: "pip"
+    directory: "/libs/lib6"
+    schedule:
+      interval: "daily"
+      time: "13:00"
+    commit-message:
+      # Prefix all commit messages with "npm: "
+      prefix: ":boom: :boom: "
+    open-pull-requests-limit: 1000
