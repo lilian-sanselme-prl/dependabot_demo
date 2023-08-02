@@ -8,7 +8,7 @@ updates:
       time: "13:00"
     commit-message:
       # Prefix all commit messages with "npm: "
-      prefix: ":boom: "
+      prefix: ":boom: :boom: "
   - package-ecosystem: npm
     directory: "/javascript"
     schedule:
@@ -16,7 +16,7 @@ updates:
       time: "13:00"
     commit-message:
       # Prefix all commit messages with "npm: "
-      prefix: ":boom: "
+      prefix: ":boom: :boom: "
   - package-ecosystem: bundler
     directory: "/ruby"
     schedule:
@@ -24,7 +24,7 @@ updates:
       time: "13:00"
     commit-message:
       # Prefix all commit messages with "npm: "
-      prefix: ":boom: "
+      prefix: ":boom: :boom: "
   - package-ecosystem: "pip"
     directory: "/libs/lib1"
     schedule:
@@ -32,7 +32,7 @@ updates:
       time: "13:00"
     commit-message:
       # Prefix all commit messages with "npm: "
-      prefix: ":boom: "
+      prefix: ":boom: :boom: "
   - package-ecosystem: "pip"
     directory: "/libs/lib2"
     schedule:
@@ -40,7 +40,7 @@ updates:
       time: "13:00"
     commit-message:
       # Prefix all commit messages with "npm: "
-      prefix: ":boom: "
+      prefix: ":boom: :boom: "
   - package-ecosystem: "pip"
     directory: "/libs/lib3"
     schedule:
@@ -48,7 +48,7 @@ updates:
       time: "13:00"
     commit-message:
       # Prefix all commit messages with "npm: "
-      prefix: ":boom: "
+      prefix: ":boom: :boom: "
   - package-ecosystem: "pip"
     directory: "/libs/lib4"
     schedule:
@@ -56,4 +56,4 @@ updates:
       time: "13:00"
     commit-message:
       # Prefix all commit messages with "npm: "
-      prefix: ":boom: "
+      prefix: ":boom: :boom: "
