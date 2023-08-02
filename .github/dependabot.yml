@@ -5,14 +5,14 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "11:10"
+      time: "13:00"
   - package-ecosystem: npm
     directory: "/javascript"
     schedule:
       interval: "daily"
-      time: "11:10"
+      time: "13:00"
   - package-ecosystem: bundler
     directory: "/ruby"
     schedule:
       interval: "daily"
-      time: "11:10"
+      time: "13:00"
