@@ -6,33 +6,54 @@ updates:
     schedule:
       interval: "daily"
       time: "13:00"
+    commit-message:
+      # Prefix all commit messages with "npm: "
+      prefix: ":boom: "
   - package-ecosystem: npm
     directory: "/javascript"
     schedule:
       interval: "daily"
       time: "13:00"
+    commit-message:
+      # Prefix all commit messages with "npm: "
+      prefix: ":boom: "
   - package-ecosystem: bundler
     directory: "/ruby"
     schedule:
       interval: "daily"
       time: "13:00"
+    commit-message:
+      # Prefix all commit messages with "npm: "
+      prefix: ":boom: "
   - package-ecosystem: "pip"
     directory: "/libs/lib1"
     schedule:
       interval: "daily"
       time: "13:00"
+    commit-message:
+      # Prefix all commit messages with "npm: "
+      prefix: ":boom: "
   - package-ecosystem: "pip"
-    directory: "/libs/lib1"
+    directory: "/libs/lib2"
     schedule:
       interval: "daily"
       time: "13:00"
+    commit-message:
+      # Prefix all commit messages with "npm: "
+      prefix: ":boom: "
   - package-ecosystem: "pip"
     directory: "/libs/lib3"
     schedule:
       interval: "daily"
       time: "13:00"
+    commit-message:
+      # Prefix all commit messages with "npm: "
+      prefix: ":boom: "
   - package-ecosystem: "pip"
     directory: "/libs/lib4"
     schedule:
       interval: "daily"
       time: "13:00"
+    commit-message:
+      # Prefix all commit messages with "npm: "
+      prefix: ":boom: "
