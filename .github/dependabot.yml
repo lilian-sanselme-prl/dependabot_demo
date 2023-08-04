@@ -73,4 +73,10 @@ updates:
     commit-message:
       # Prefix all commit messages with "npm: "
       prefix: ":boom: :boom: "
+    groups:
+      # This is the name of your group, it will be used in PR titles and branch names
+      my-group:
+        # A pattern can be...
+        patterns:
+          - "pip" # a single dependency name
     open-pull-requests-limit: 1000
