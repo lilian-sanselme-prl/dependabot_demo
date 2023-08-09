@@ -41,6 +41,14 @@ updates:
     commit-message:
       # Prefix all commit messages with "npm: "
       prefix: ":boom: :boom: "
+  - package-ecosystem: "pip" # salut
+    directory: "/libs/lib11" # comment vas-tu
+    schedule:
+      interval: "daily"
+      time: "13:00"
+    commit-message:
+      # Prefix all commit messages with "npm: "
+      prefix: ":boom: :boom: "
   - package-ecosystem: "pip"
     directory: "/libs/lib2"
     schedule:

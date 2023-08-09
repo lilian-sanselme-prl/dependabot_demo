@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "saruman"
+version = "0.6.0-0"
+description = "Bonjour world"
+readme = "README.md"
+authors = ["bonjour"]
+
+packages = []
+
+[tool.poetry.build]
+generate-setup-file = false
+
+[tool.poetry.dependencies]
+python = "~3.10"
+
+
+setuptools = "44.0.0"
+coloredlogs = "10.0"
+fiona = "1.8.20"
+geopandas = "0.7.0"
+ipython = "7.28.0"
+memory-profiler = "0.55.0"
