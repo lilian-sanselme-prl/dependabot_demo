@@ -14,7 +14,7 @@ generate-setup-file = false
 python = "~3.10"
 
 
-setuptools = "44.0.0"
+setuptools = "70.1.0"
 coloredlogs = "10.0"
 fiona = "1.8.20"
 geopandas = "0.7.0"
